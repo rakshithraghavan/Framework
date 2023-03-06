@@ -1,17 +1,13 @@
 from selenium import webdriver
 import pytest
 
-import time
-driver = None
-
-
+# import time
+# driver = None
 
 def pytest_addoption(parser):
     parser.addoption(
         "--browser_name", action="store", default="chrome"
     )
-
-
 @pytest.fixture(scope="class")      ## decorator to create fixture and can be used on class level
 def setup(request):     ## request is predefined object, which will be auto populated by pytest
     global driver
