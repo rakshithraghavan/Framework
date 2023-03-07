@@ -1,0 +1,5 @@
+2023-03-07 18:47:46,450 - root - INFO - **********Test_001_Login**********
+2023-03-07 18:47:46,455 - root - INFO - **********Verifying Home Page Title**********
+2023-03-07 18:47:52,599 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-07 18:47:56,363 - root - INFO - **********Verifying Login Test**********
+2023-03-07 18:48:09,164 - root - INFO - **********Login Test Passed**********
