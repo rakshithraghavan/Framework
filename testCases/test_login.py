@@ -4,7 +4,8 @@ from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 #pytest -v -s
-
+#pytest -v -s testCases/test_login.py --browser chrome
+#pytest -v -s -n=2 testCases/test_login.py --browser chrome
 class Test_001_Login:
     baseURL=ReadConfig.getApplicationURL()
     username=ReadConfig.getUsermail()

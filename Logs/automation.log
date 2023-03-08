@@ -3,3 +3,97 @@
 2023-03-07 18:47:52,599 - root - INFO - **********Home Page Title Test Passed**********
 2023-03-07 18:47:56,363 - root - INFO - **********Verifying Login Test**********
 2023-03-07 18:48:09,164 - root - INFO - **********Login Test Passed**********
+2023-03-08 09:36:47,292 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:36:47,293 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:36:50,984 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 09:36:51,063 - root - INFO - **********Verifying Login Test**********
+2023-03-08 09:37:54,108 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:37:54,109 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:38:00,442 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 09:38:00,450 - root - INFO - **********Verifying Login Test**********
+2023-03-08 09:39:45,385 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:39:45,386 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:39:50,876 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 09:39:53,519 - root - INFO - **********Verifying Login Test**********
+2023-03-08 09:40:05,788 - root - INFO - **********Login Test Passed**********
+2023-03-08 09:42:12,270 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:42:12,312 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:42:18,148 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 09:42:20,925 - root - INFO - **********Verifying Login Test**********
+2023-03-08 09:42:31,770 - root - INFO - **********Login Test Passed**********
+2023-03-08 09:47:54,747 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:47:54,832 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:48:01,213 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 09:48:05,154 - root - INFO - **********Verifying Login Test**********
+2023-03-08 09:48:17,358 - root - INFO - **********Login Test Passed**********
+2023-03-08 09:49:29,903 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:49:29,905 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:49:40,317 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 09:50:06,528 - root - INFO - **********Verifying Login Test**********
+2023-03-08 09:50:20,580 - root - INFO - **********Login Test Passed**********
+2023-03-08 09:52:36,827 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:52:36,828 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:52:41,977 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 09:52:44,119 - root - INFO - **********Verifying Login Test**********
+2023-03-08 09:52:56,260 - root - INFO - **********Login Test Passed**********
+2023-03-08 09:54:04,016 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:54:04,017 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:58:54,733 - root - INFO - **********Test_001_Login**********
+2023-03-08 09:58:54,735 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 09:59:01,675 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 09:59:04,964 - root - INFO - **********Verifying Login Test**********
+2023-03-08 09:59:19,791 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:06:04,532 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:06:04,533 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:06:12,604 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:06:15,839 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:06:28,563 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:10:20,279 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:10:20,467 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:10:26,741 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:10:29,547 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:10:41,128 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:17:37,800 - WDM - INFO - ====== WebDriver manager ======
+2023-03-08 10:18:00,036 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-03-08 10:18:02,873 - WDM - INFO - There is no [win64] edgedriver for browser 110.0.1587 in cache
+2023-03-08 10:18:02,873 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/110.0.1587.63/edgedriver_win64.zip
+2023-03-08 10:18:11,827 - WDM - INFO - Driver has been saved in cache [C:\Users\raksh\.wdm\drivers\edgedriver\win64\110.0.1587]
+2023-03-08 10:18:17,266 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:18:17,267 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:18:25,250 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:18:25,258 - WDM - INFO - ====== WebDriver manager ======
+2023-03-08 10:18:28,785 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-03-08 10:18:31,561 - WDM - INFO - Driver [C:\Users\raksh\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-03-08 10:18:37,826 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:18:52,864 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:25:54,005 - WDM - INFO - ====== WebDriver manager ======
+2023-03-08 10:25:57,141 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-03-08 10:25:59,933 - WDM - INFO - Driver [C:\Users\raksh\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-03-08 10:26:03,578 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:26:03,578 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:26:11,144 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:26:11,151 - WDM - INFO - ====== WebDriver manager ======
+2023-03-08 10:26:13,778 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-03-08 10:26:16,458 - WDM - INFO - Driver [C:\Users\raksh\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-03-08 10:26:24,104 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:26:35,166 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:26:51,968 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:26:51,968 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:26:57,945 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:27:00,900 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:27:14,137 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:29:25,825 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:29:29,196 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:29:29,198 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:29:41,918 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:29:47,548 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:34:33,797 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:34:33,799 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:34:38,507 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:34:40,821 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:34:52,382 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:37:20,555 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:37:21,819 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:37:21,820 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:37:28,367 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:37:37,399 - root - INFO - **********Login Test Passed**********
