@@ -172,3 +172,48 @@
 2023-03-09 00:15:53,919 - root - INFO - *****Login DDT Test Passed*****
 2023-03-09 00:15:55,498 - root - INFO - *****End of Login DDT Test*****
 2023-03-09 00:15:55,498 - root - INFO - **********Completed Testcase_007**********
+2023-03-09 00:51:57,980 - root - INFO - **********Test_007_DDT_Login*********
+2023-03-09 00:51:58,212 - root - INFO - **********Verifying Login Test**********
+2023-03-09 00:52:27,197 - root - INFO - ****Passed****
+2023-03-09 00:52:35,554 - root - INFO - ****Passed****
+2023-03-09 00:52:41,847 - root - INFO - ****Passed****
+2023-03-09 00:52:48,434 - root - INFO - ****Passed****
+2023-03-09 00:52:48,434 - root - INFO - *****Login DDT Test Passed*****
+2023-03-09 00:52:48,981 - root - INFO - *****End of Login DDT Test*****
+2023-03-09 00:52:48,981 - root - INFO - **********Completed Testcase_007**********
+2023-03-09 01:01:37,699 - root - INFO - **********Test_007_DDT_Login*********
+2023-03-09 01:01:37,780 - root - INFO - **********Verifying Login Test**********
+2023-03-09 01:01:57,316 - root - INFO - ****Passed****
+2023-03-09 01:02:06,731 - root - INFO - ****Passed****
+2023-03-09 01:02:13,359 - root - INFO - ****Passed****
+2023-03-09 01:02:20,182 - root - INFO - ****Passed****
+2023-03-09 01:02:20,183 - root - INFO - *****Login DDT Test Passed*****
+2023-03-09 01:02:22,216 - root - INFO - *****End of Login DDT Test*****
+2023-03-09 01:02:22,217 - root - INFO - **********Completed Testcase_007**********
+2023-03-09 01:03:54,189 - root - INFO - **********Test_007_DDT_Login*********
+2023-03-09 01:03:54,192 - root - INFO - **********Verifying Login Test**********
+2023-03-09 01:04:09,886 - root - INFO - ****Passed****
+2023-03-09 01:04:19,440 - root - INFO - ****Passed****
+2023-03-09 01:04:26,640 - root - INFO - ****Passed****
+2023-03-09 01:04:34,648 - root - INFO - ****Passed****
+2023-03-09 01:04:34,649 - root - INFO - *****Login DDT Test Passed*****
+2023-03-09 01:04:36,778 - root - INFO - *****End of Login DDT Test*****
+2023-03-09 01:04:36,779 - root - INFO - **********Completed Testcase_007**********
+2023-03-09 01:08:27,703 - root - INFO - **********Test_007_DDT_Login*********
+2023-03-09 01:08:27,703 - root - INFO - **********Verifying Login Test**********
+2023-03-09 01:08:45,561 - root - INFO - ****Passed****
+2023-03-09 01:08:53,774 - root - INFO - ****Passed****
+2023-03-09 01:09:00,199 - root - INFO - ****Passed****
+2023-03-09 01:09:06,671 - root - INFO - ****Passed****
+2023-03-09 01:09:06,671 - root - INFO - *****Login DDT Test Passed*****
+2023-03-09 01:09:07,420 - root - INFO - *****End of Login DDT Test*****
+2023-03-09 01:09:07,436 - root - INFO - **********Completed Testcase_007**********
+2023-03-09 01:11:58,941 - root - INFO - **********Test_007_DDT_Login*********
+2023-03-09 01:11:58,942 - root - INFO - **********Verifying Login Test**********
+2023-03-09 01:12:19,095 - root - INFO - ****Passed****
+2023-03-09 01:12:27,386 - root - INFO - ****Passed****
+2023-03-09 01:12:33,982 - root - INFO - ****Passed****
+2023-03-09 01:12:40,632 - root - INFO - ****Passed****
+2023-03-09 01:12:40,633 - root - INFO - *****Login DDT Test Passed*****
+2023-03-09 01:12:41,026 - root - INFO - *****End of Login DDT Test*****
+2023-03-09 01:12:41,026 - root - INFO - **********Completed Testcase_007**********
