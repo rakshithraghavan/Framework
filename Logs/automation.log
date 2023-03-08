@@ -262,3 +262,12 @@
 2023-03-09 01:48:58,614 - root - INFO - *****Login DDT Test Passed*****
 2023-03-09 01:48:59,420 - root - INFO - *****End of Login DDT Test*****
 2023-03-09 01:48:59,420 - root - INFO - **********Completed Testcase_007**********
+2023-03-09 01:56:41,053 - root - INFO - **********Test_007_DDT_Login*********
+2023-03-09 01:56:41,084 - root - INFO - **********Verifying Login Test**********
+2023-03-09 01:57:22,436 - root - INFO - ****Passed****
+2023-03-09 01:57:31,757 - root - INFO - ****Passed****
+2023-03-09 01:57:38,432 - root - INFO - ****Passed****
+2023-03-09 01:57:45,639 - root - INFO - ****Passed****
+2023-03-09 01:57:45,640 - root - INFO - *****Login DDT Test Passed*****
+2023-03-09 01:57:46,498 - root - INFO - *****End of Login DDT Test*****
+2023-03-09 01:57:46,498 - root - INFO - **********Completed Testcase_007**********

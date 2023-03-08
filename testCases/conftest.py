@@ -1,7 +1,7 @@
 from selenium import webdriver
 import pytest
 #pip install webdriver-manager
-#from webdriver_manager.microsoft import EdgeChromiumDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 # import time
 driver = None
@@ -27,8 +27,8 @@ def setup(request):     ## request is predefined object, which will be auto popu
         driver=webdriver.Ie()
         print("IE driver")
     elif browser == "Edge":
-        driver=webdriver.Edge()
-#        driver=webdriver.Edge(EdgeChromiumDriverManager().install())
+#        driver=webdriver.Edge()
+        driver=webdriver.Edge(EdgeChromiumDriverManager().install())
     else:
         driver=webdriver.Chrome()
     return driver
