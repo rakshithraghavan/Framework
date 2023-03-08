@@ -6,6 +6,7 @@ from utilities.customLogger import LogGen
 #pytest -v -s
 #pytest -v -s testCases/test_login.py --browser chrome
 #pytest -v -s -n=2 testCases/test_login.py --browser chrome
+#pytest -v -s -n=2 --html=Reports\report.html testCases/test_login.py --browser chrome
 class Test_001_Login:
     baseURL=ReadConfig.getApplicationURL()
     username=ReadConfig.getUsermail()

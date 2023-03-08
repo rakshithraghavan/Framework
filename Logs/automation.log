@@ -97,3 +97,18 @@
 2023-03-08 10:37:21,820 - root - INFO - **********Verifying Home Page Title**********
 2023-03-08 10:37:28,367 - root - INFO - **********Home Page Title Test Passed**********
 2023-03-08 10:37:37,399 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:49:08,464 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:49:08,772 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:49:08,773 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:49:16,154 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:49:27,593 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:50:26,453 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:50:26,454 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:50:28,209 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:50:32,612 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:50:43,618 - root - INFO - **********Login Test Passed**********
+2023-03-08 10:53:06,111 - root - INFO - **********Verifying Login Test**********
+2023-03-08 10:53:06,968 - root - INFO - **********Test_001_Login**********
+2023-03-08 10:53:06,969 - root - INFO - **********Verifying Home Page Title**********
+2023-03-08 10:53:27,486 - root - INFO - **********Home Page Title Test Passed**********
+2023-03-08 10:53:27,596 - root - INFO - **********Login Test Passed**********
