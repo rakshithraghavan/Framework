@@ -25,7 +25,8 @@ class LoginPage:
         self.driver.find_element(By.TAG_NAME,self.button_login_tag).click()
 
     def clickLogout(self):
-        self.driver.find_element_by_link_text(self.link_logout_linktext).click()
+#        self.driver.find_element_by_link_text(self.link_logout_linktext).click()
+        self.driver.find_element(By.LINK_TEXT, self.link_logout_linktext).click()
 
 
 

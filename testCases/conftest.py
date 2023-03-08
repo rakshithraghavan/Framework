@@ -8,7 +8,7 @@ driver = None
 
 def pytest_addoption(parser):
     parser.addoption(
-        "--browser"#, action="store", default="chrome"
+        "--browser", action="store", default="chrome"
     )
 #@pytest.fixture(scope="class")      ## decorator to create fixture and can be used on class level
 @pytest.fixture()
@@ -46,6 +46,7 @@ def pytest_configure(config):
 
 #Hook for delete/modify Environment info to HTML Report
 @pytest.mark.optionalhook
+#@pytest.hookimpl(optionalhook=True)
 def pytest_metadata(metadata):
     metadata.pop("JAVA_HOME", None)
     metadata.pop("Plugins", None)
