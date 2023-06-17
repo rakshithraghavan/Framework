@@ -11,7 +11,7 @@ class ReadConfig:
         return url
 
     @staticmethod
-    def getUsermail():
+    def getUseremail():
         username=config.get('common info', 'usermail')
         return username
 

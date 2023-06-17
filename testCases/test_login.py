@@ -3,15 +3,19 @@ from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
-#pytest -v -s
+#pytest -v -s testCases
+#pytest -v -s testCases/test_login.py -m "sanity"
+#pytest -v -s testCases/test_login.py -m "sanity" or "regression"
+#pytest -v -s testCases/test_login.py -m "sanity" and "regression"
 #pytest -v -s testCases/test_login.py --browser chrome
 #pytest -v -s -n=2 testCases/test_login.py --browser chrome
-#pytest -v -s -n=2 --html=Reports\report.html testCases/test_login.py --browser chrome
+#pytest -v -s testCases/test_login.py testCases/test_login_ddt.py --browser chrome
+#pytest -v -s -n=2 --html=Reports/report.html testCases/test_login.py --browser chrome
+
 class Test_001_Login:
     baseURL=ReadConfig.getApplicationURL()
-    username=ReadConfig.getUsermail()
+    username=ReadConfig.getUseremail()
     password=ReadConfig.getPassword()
-
     logger=LogGen.loggen()
 
     def test_homePageTitle(self,setup):
